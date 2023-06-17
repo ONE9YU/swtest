@@ -6,6 +6,8 @@
 int main()
 {
 
+
+
 	int a;
 
 
@@ -15,7 +17,7 @@ int main()
 
 
 	printf("tqtqtqtq");
-
+	printf("12313");
 
 	return 0;
 }
